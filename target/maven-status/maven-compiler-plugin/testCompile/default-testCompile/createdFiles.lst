@@ -1,0 +1,3 @@
+com\saucedemo\runners\TestRunner.class
+com\saucedemo\stepdefinitions\Hooks.class
+com\saucedemo\stepdefinitions\LoginSteps.class
